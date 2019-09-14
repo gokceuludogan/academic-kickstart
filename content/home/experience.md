@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Teaching Assitant"
+  company = "Boğaziçi University"
+  company_url = "http://www.boun.edu.tr/"
+  location = "Istanbul"
+  date_start = "2019-02-02"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Preparing Assignments
+  * Running Problem Sessions
+  * Assignment & Exam Grading
+  """
+[[experience]]
+  title = "Research Assitant"
+  company = "TUBITAK"
+  company_url = "https://www.tubitak.gov.tr/"
+  location = ""
+  date_start = "2018-12-02"
+  date_end = "2019-04-01"
+  description = """
+  Worked on the project TUBITAK 116E104 *Using Turkish WordNet for Machine Translation*. 
+
+  Achievements:
+
+  * Enhanced and documented an open source NLP toolkit and WordNet for Turkish.
+  * Developed web interfaces for this toolkit and Turkish WordNet. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineer"
+  company = "Tazi.ai"
+  company_url = "https://www.tazi.ai"
+  location = "Istanbul"
+  date_start = "2018-02-01"
+  date_end = "2018-11-30"
+  description = """
+  Software engineer working on machine learning algorithms.
+  
+  Achievements:
+
+  * Development of taziwise which is a real time recommendation tool.
+  * Development and enhancement of tazihunt, an anomaly detection and prediction, and pattern recognition tool.
+  * Worked on online regression algorithms"""
 
 +++
