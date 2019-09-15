@@ -45,10 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gokceuludogan@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/gokceuludogan_
+  link: 'mailto:gokce.uludogan@boun.edu.tr'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gokceuludogan/  
@@ -76,4 +73,6 @@ email: "gokceuludogan@gmail.com"
 
 I am a Teaching Assistant in [Computer Engineering](https://www.cmpe.boun.edu.tr/) at [Boğaziçi University](http://www.boun.edu.tr/en_US). Also, I am studying for a MSc degree and hold a BSc degree in the same department. My research interests include **deep learning, cheminformatics and natural language processing**.
 
-I am working under supervision of [Arzucan Özgür](https://www.cmpe.boun.edu.tr/~ozgur/) and [Elif Özkırımlı](https://che.boun.edu.tr/en/elif-ozkirimli-olmez). 
+I am working under the supervision of [Arzucan Özgür](https://www.cmpe.boun.edu.tr/~ozgur/) and [Elif Özkırımlı](https://che.boun.edu.tr/en/elif-ozkirimli-olmez) and a member of [AILAB](http://ailab.cmpe.boun.edu.tr/) and [TABILAB](http://tabilab.cmpe.boun.edu.tr/). 
+
+

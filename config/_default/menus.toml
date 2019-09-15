@@ -26,17 +26,22 @@
 #[[main]]
 #  name = "Publications"
 #  url = "#publications"
-#  weight = 40
+#  weight = 90
 
 [[main]]
   name = "Courses"
   url = '#courses'
   weight = 50
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
+[[main]]
+  name = "Activities"
+  url = '#activities'
+  weight = 60
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
