@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Computer Engineering
     institution: Boğaziçi University
-    year: 2018-
+    year: 2018-Present
   - course: BSc in Computer Engineering
     institution: Boğaziçi University
     year: 2013-2018
