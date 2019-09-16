@@ -18,6 +18,9 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["45px", "0", "45px", "0"]
 
 [[item]]
   title = "Teaching"

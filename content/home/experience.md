@@ -12,6 +12,10 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["45px", "0", "45px", "0"]
+
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
@@ -62,5 +66,6 @@ date_format = "Jan 2006"
   * Development of taziwise which is a real time recommendation tool.
   * Development and enhancement of tazihunt, an anomaly detection and prediction, and pattern recognition tool.
   * Worked on online regression algorithms."""
+
 
 +++

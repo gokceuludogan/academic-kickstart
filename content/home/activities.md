@@ -14,6 +14,10 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["35px", "0", "35px", "0"]
+
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
@@ -30,6 +34,6 @@ subtitle = ""
   icon = "baseball-ball"
   icon_pack = "fas"
   name = "Player"
-  description = "Player at Istanbul Ladies United, an amateur woman football team."
+  description = "Player at Istanbul Ladies United, an amateur woman football team"
 
 +++
