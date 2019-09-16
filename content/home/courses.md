@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Teaching"
   description = """
-  * [CMPE150](https://www.cmpe.boun.edu.tr/courses/cmpe150) - Introduction To Computing
+  * [CMPE150](https://www.cmpe.boun.edu.tr/courses/cmpe150) - Introduction to Computing
   * [CMPE321](https://www.cmpe.boun.edu.tr/courses/cmpe321) - Introduction to Database Systems
   * [CMPE493](https://www.cmpe.boun.edu.tr/courses/cmpe493) - Introduction to Information Retrieval"""
 

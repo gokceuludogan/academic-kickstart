@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assitant"
+  title = "Teaching Assistant"
   company = "Boğaziçi University"
   company_url = "http://www.boun.edu.tr/"
   location = "Istanbul"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Assignment & Exam Grading
   """
 [[experience]]
-  title = "Research Assitant"
+  title = "Research Assistant"
   company = "TUBITAK"
   company_url = "https://www.tubitak.gov.tr/"
   location = ""
@@ -55,12 +55,12 @@ date_format = "Jan 2006"
   date_start = "2018-02-01"
   date_end = "2018-11-30"
   description = """
-  Software engineer working on machine learning algorithms.
+  Software engineer worked on machine learning algorithms.
   
   Achievements:
 
   * Development of taziwise which is a real time recommendation tool.
   * Development and enhancement of tazihunt, an anomaly detection and prediction, and pattern recognition tool.
-  * Worked on online regression algorithms"""
+  * Worked on online regression algorithms."""
 
 +++

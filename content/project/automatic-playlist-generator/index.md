@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Automatic Playlist Generator"
-summary: "an automatic playlist generator using songs' features and lyrics with the trained dataset or user's liked songs in Spotify"
+summary: "An automatic playlist generator using songs' features and lyrics with the trained dataset or user's liked songs in Spotify"
 authors: []
 tags: [Machine Learning, Clustering]
 categories: []
