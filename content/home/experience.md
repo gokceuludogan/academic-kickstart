@@ -29,11 +29,19 @@ date_format = "Jan 2006"
   date_start = "2019-02-02"
   date_end = ""
   description = """
-  Responsibilities include:
 
-  * Preparing Assignments
-  * Running Problem Sessions
+  **Courses:** 
+
+  * [CMPE150](https://www.cmpe.boun.edu.tr/courses/cmpe150) - Introduction to Computing (Fall 2019)
+  * [CMPE321](https://www.cmpe.boun.edu.tr/courses/cmpe321) - Introduction to Database Systems (Spring 2019, Summer 2019)
+  * [CMPE493](https://www.cmpe.boun.edu.tr/courses/cmpe493) - Introduction to Information (Spring 2019)
+
+
+  **Responsibilities:**
+
+  * Preparing assignments
   * Assignment & Exam Grading
+  * Lecturing on lab sessions
   """
 [[experience]]
   title = "Research Assistant"
