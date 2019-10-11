@@ -16,8 +16,9 @@ baseurl = "https://gokceuludogan.github.io/"
 copyright = "Copyright &copy; Gökçe Uludoğan {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
-
+googleAnalytics = "UA-149826863-2"
+# github: UA-149826863-2
+# cmpe: UA-149826863-1 
 ############################
 ## Advanced options below ##
 ############################
