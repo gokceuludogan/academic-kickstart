@@ -4,7 +4,7 @@
 title: "User Interfaces for Turkish Natural Language Processing"
 subtitle: ""
 summary: ""
-authors: [Gökçe Uludoğan, Rıza Özçelik, Selen Parlar, Gökhan Ercan, Olcay Taner Yıldız]
+authors: ["gokce-uludogan", Rıza Özçelik, Selen Parlar, Gökhan Ercan, Olcay Taner Yıldız]
 tags: [Natural Language Processing, Turkish, User Interface, Morphological Analysis, Morphological Disambiguation]
 abstract: "Among the most popular works in Turkish natural
 language processing there are Zemberek and ITU Turkish

@@ -4,7 +4,7 @@
 title: "User Interface for Turkish Word Network KeNet"
 subtitle: ""
 summary: ""
-authors: [Rıza Özçelik, Gökçe Uludoğan, Selen Parlar, Özge Bakay, Özlem Ergelen, Olcay Taner Yıldız]
+authors: [Rıza Özçelik, "gokce-uludogan", Selen Parlar, Özge Bakay, Özlem Ergelen, Olcay Taner Yıldız]
 tags: [Natural Language Processing, Turkish, User Interface, Word networks, KeNet
 ]
 abstract: "Word networks are graphs that represent relations between literals by constructing synonym sets and connecting these sets via various semantic relations. WordNet was constructed in 1990 for English, which is the most popular word network in natural language processing, whereas, KeNet was proposed in 2018, which is the most comprehensive network for Turkish. To the best of our knowledge, there is no user interface for KeNet, which contains 80000 synonym sets and 25 different semantic relations. In this work, we present a user interface, which enables traversing synonym sets in KeNet via semantic relations. Thanks to this interface, KeNet can be searched for a literal and can be traversed using the relations such as hypernym/hyponym and holonym/meronym. Moreover, for any synonym set, ID of the corresponding WordNet synonym set can be seen, if exists and this synonym set can be viewed in the WordNet's web page."

@@ -4,7 +4,7 @@
 title: "Açık Kaynak Sürü İHA Benzetim Ortamı (in Turkish)"
 subtitle: ""
 summary: ""
-authors: [Okan Aşık, Gökçe Uludoğan, Hatice Kübra Eryılmaz]
+authors: [Okan Aşık, "gokce-uludogan", Hatice Kübra Eryılmaz]
 tags: [UAV, simulation, ROS, Gazebo
 ]
 abstract: "İnsansız hava araçları (İHA) düşen maliyetleri sayesinde bir çok alanda kullanılabilmektedir. En önemli uygulama alanlarından birisi de sürü sistemleridir. Sürü sistemlerindeki en büyük güçlüklerden birisi sistem testleridir. Bu testler sürü İHA sistemleri için daha da zor olmaktadır. Bu sebeple sürü İHA sistemlerinin testleri genellikle benzetim ortamında yapılmaktadır. Bu benzetim ortamları genellikle belirli bir araştırma alanı ve araştırma grubu için tasarlanmaktadır. Bu çalışmada genel amaçlı benzetim ortamı olan Gazebo’yu kullanarak açık kaynak bir sürü İHA benzetim ortamı sunuyoruz. ROS ile desteklenen sistemimiz geliştirmeye açık ve modüler bir kıyaslama sistemi sunmaktadır. Genel bir benzetim ortamı
