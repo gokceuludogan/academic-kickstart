@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "Please feel free to reach out to me if you are interested in NLP or cheminformatics!"
 
 # Automatically link email and phone?
 autolink = true
@@ -19,6 +19,6 @@ email_form = 0
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["45px", "0", "45px", "0"]
+  padding = ["10px", "0", "10px", "0"]
 +++
 

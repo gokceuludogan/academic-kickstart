@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Activities"
+title = "Personal"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -16,8 +16,12 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["35px", "0", "35px", "0"]
-
+  padding = ["20px", "0", "20px", "0"]
+[[feature]]
+  icon = "tree"
+  icon_pack = "fas"
+  name = "Nature Lover"
+  description = ""
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
@@ -29,11 +33,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Mentor/Organizer"
   description = "Mentor/Organizer at [Django Girls Istanbul](https://djangogirls.org/istanbul/) organizing workshops for introducing women to programming in Python and Django"  
-  
-[[feature]]
-  icon = "baseball-ball"
-  icon_pack = "fas"
-  name = "Player"
-  description = "Player at Istanbul Ladies United, an amateur woman football team"
+ 
+
+#[[feature]]
+#  icon = "baseball-ball"
+#  icon_pack = "fas"
+#  name = "Player"
+#  description = "Player at Istanbul Ladies United, an amateur woman football team"
 
 +++

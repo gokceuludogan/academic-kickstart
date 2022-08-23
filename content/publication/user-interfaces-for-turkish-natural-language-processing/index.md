@@ -22,7 +22,7 @@ url_code: "https://github.com/gokhanercan/nlptoolkit.ui"
 categories: [Natural Language Processing]
 date: 2019-04-24T14:10:27+03:00
 lastmod: 2019-09-15T14:10:27+03:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

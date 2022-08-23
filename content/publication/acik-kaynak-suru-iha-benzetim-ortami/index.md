@@ -14,7 +14,7 @@ url_code: "https://github.com/teknofest-suruiha/suruiha"
 categories: [Robotics]
 date: 2019-06-28T14:10:27+03:00
 lastmod: 2019-09-15T14:10:27+03:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

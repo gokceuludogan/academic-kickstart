@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Teaching Assistant and MSc Student at Computer Engineering
+role: Teaching Assistant and PhD Student at Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Engineering
+    institution: Boğaziçi University
+    year: 2021-Present
   - course: MSc in Computer Engineering
     institution: Boğaziçi University
-    year: 2018-Present
+    year: 2018-2021
   - course: BSc in Computer Engineering
     institution: Boğaziçi University
     year: 2013-2018
@@ -55,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gokceuludogan
+- icon: twitter
+  icon_pack: fab 
+  link: https://twitter.com/g_uludogan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -71,7 +77,7 @@ email: "gokceuludogan@gmail.com"
 # - Visitors
 ---
 
-I am a Teaching Assistant in [Computer Engineering](https://www.cmpe.boun.edu.tr/) at [Boğaziçi University](http://www.boun.edu.tr/en_US). Also, I am studying for a MSc degree and hold a BSc degree in the same department. My research interests include **deep learning, cheminformatics and natural language processing**.
+I am a Teaching Assistant in [Computer Engineering](https://www.cmpe.boun.edu.tr/) at [Boğaziçi University](http://www.boun.edu.tr/en_US). Also, I am studying for a PhD degree and hold BSc and MSc degrees in the same department. My research interests include **deep learning, cheminformatics and natural language processing**.
 
 I am working under the supervision of [Arzucan Özgür](https://www.cmpe.boun.edu.tr/~ozgur/) and [Elif Özkırımlı](https://che.boun.edu.tr/en/elif-ozkirimli-olmez) and a member of [AILAB](http://ailab.cmpe.boun.edu.tr/) and [TABILAB](http://tabilab.cmpe.boun.edu.tr/). 
 
